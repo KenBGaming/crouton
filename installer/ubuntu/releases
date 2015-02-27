@@ -15,7 +15,10 @@ natty*
 oneiric*
 precise
 quantal*
-raring*
+raring
 saucy*
 trusty
 utopic*|test
+devel
+lucid
+vivid
